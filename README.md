@@ -1,5 +1,5 @@
 # TravelRegistrationSystem
-GUI, Linkedlist, Tree
+
 Travel registration system is designed to see prices and details, then register of the domestic and overseas travels in the online environment. 
 The Main objective of this project is to make the travel easy and comfortable for the users right from finding the routes and buses to till
 the booking of the tickets.This project is a GUI application that acts as a online reservation system.
